@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+I'm working on TIC, i.e. The Internation Circus. 🤡
+
+The following list is my active contact way, but not all account called `RicoloveFeng`. You may ask me if you wonder the specific number/account.
+
+* Blocked
+  * QQ
+* Active
+  * Github
+  * Wechat, Discord
+  * Outlook, Gmail
+  * Twitter, Weibo, Mastodon
+  * MCBBS
+  * Douyin, Bilibili
+  * Zhihu
+* Seldom active
+  * Steam, Telegram, Tieba
+
+
+
 <!--
 **RicoloveFeng/RicoloveFeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
