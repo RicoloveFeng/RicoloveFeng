@@ -2,7 +2,7 @@
 
 I'm working on TIC, i.e. The International Circus. 🤡
 
-The following list is my active contact way, but not all account called `RicoloveFeng`. You may ask me if you wonder the specific number/account.
+The following list is my active contact way, but not all accounts are called `RicoloveFeng`. You may ask me if you wonder the specific number/account.
 
 * Blocked
   * QQ
