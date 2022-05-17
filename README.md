@@ -4,11 +4,9 @@ I'm working on TIC, i.e. The International Circus. 🤡
 
 The following list is my active contact way, but not all accounts are called `RicoloveFeng`. You may ask me if you wonder the specific number/account.
 
-* Blocked
-  * QQ
 * Active
   * Github
-  * Wechat, Discord
+  * Wechat, Discord, QQ
   * Outlook, Gmail
   * Twitter, Weibo, Mastodon
   * MCBBS
